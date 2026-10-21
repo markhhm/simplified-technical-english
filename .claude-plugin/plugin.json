@@ -1,12 +1,12 @@
 {
   "name": "simplified-technical-english",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ASD-STE100 Simplified Technical English: 53 rules, approved word list, checker (plugin packaging of 0xpili/simplified-technical-english)",
   "author": {
     "name": "0xpili"
   },
   "license": "MIT",
   "skills": [
-    "./"
+    "./skills/simplified-technical-english"
   ]
 }

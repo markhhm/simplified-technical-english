@@ -8,7 +8,7 @@
       "name": "simplified-technical-english",
       "source": "./",
       "description": "ASD-STE100 Simplified Technical English: 53 rules, approved word list, checker (plugin packaging of 0xpili/simplified-technical-english)",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }
